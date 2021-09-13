@@ -1,0 +1,27 @@
+.home{
+    width: 650px;
+    color: white;
+    
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+img{
+    border-radius: 12px;
+    
+}
+body{
+   background-image: linear-gradient(black, #434343);
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: tomato;
+    padding:0px 30px;
+}
